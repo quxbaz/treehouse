@@ -1,0 +1,8 @@
+Implement hitpoints
+Use on_collide
+Make enemies pulse
+Move pulse code in hero to use a separate timer
+draw border around arena
+create other enemies
+add powerups
+implement detonate mechanic
